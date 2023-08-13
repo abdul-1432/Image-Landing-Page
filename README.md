@@ -20,7 +20,7 @@ To set up the Image Landing Page on your local machine, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/image-landing-page.git
+   git clone https://github.com/abdul-1432/Image-Landing-Page
    ```
 
 2. Navigate to the project directory:
