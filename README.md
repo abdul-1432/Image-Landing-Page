@@ -82,5 +82,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Create captivating and visually stunning landing pages for showcasing your images with ease using the Image Landing Page application. Share your art, photography, or creative work in a beautifully designed environment.
-
-**Note:** This README is a template. Make sure to customize it according to your project's specific details and requirements.
