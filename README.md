@@ -42,16 +42,16 @@ To set up the Image Landing Page on your local machine, follow these steps:
 
 ## Configuration
 
-You can customize the appearance and behavior of your landing page by modifying the `config.js` file in the `src` directory. Adjust settings such as background colors, fonts, slideshow duration, and more.
+You can customize the appearance and behavior of your landing page by modifying the `config.js file in the `src` directory. Adjust settings such as background colors, fonts, slideshow duration, and more.
 
 ```javascript
 // src/config.js
 
 const config = {
-  title: 'My Image Gallery',
+  title: 'My Image Gallery,
   backgroundColor: '#f7f7f7',
   font: 'Arial, sans-serif',
-  slideshowDuration: 5000,
+  slideshow duration: 5000,
   // ...other configuration options
 };
 
@@ -73,7 +73,7 @@ To deploy your Image Landing Page to a live server, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to create a pull request or submit an issue in the [GitHub repository](https://github.com/your-username/image-landing-page).
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to create a pull request or submit an issue in the [GitHub repository](https://github.com/abdul-1432/Image-Landing-Page).
 
 ## License
 
